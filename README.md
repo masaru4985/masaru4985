@@ -1,4 +1,4 @@
-I'm masaru4985 age:47
+I'm masaru4985
 
 - 👀 MSX (BASIC) and RASPBERRY PI (C)
 I like. 
