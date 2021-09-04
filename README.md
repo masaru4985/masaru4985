@@ -2,7 +2,7 @@ I'm masaru4985 age:47
 
 - 👀 MSX (BASIC) and RASPBERRY PI (C)
 I like. 
-- 🌱 I'm using XWINDOW to port an MSX posting game. I would like to learn C ++, C #, and JAVA.and I draw pictures as a hobby.
+- 🌱 I'm using XWINDOW to port an MSX posting game. I would like to learn C ++, C #, and JAVA.
 - 💞️ Would you like to make something with simple BASIC and C language?
 - 📫 7016ljxj@jcom.home.ne.jp or masaru4985@gmail.com
 <!---
